@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Controller {
     @RequestMapping("/")
     public String home() {
-        return "Spring boot is working! ";
+        return "Spring boot is working! Morning!";
     }
 }
