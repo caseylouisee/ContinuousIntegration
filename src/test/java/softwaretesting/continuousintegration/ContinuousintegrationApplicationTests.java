@@ -18,5 +18,10 @@ class ContinuousintegrationApplicationTests {
         assertEquals(true, true);
     }
 
+    @Test
+    void fakeTest3() {
+        assertEquals(true, true);
+    }
+
 
 }
